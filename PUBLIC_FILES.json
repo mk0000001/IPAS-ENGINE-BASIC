@@ -1,0 +1,27 @@
+{
+  "repository_name": "IPAS-ENGINE-BASIC",
+  "scope": "Independent educational comment metadata reader and illustrative arithmetic only",
+  "history": "No inherited commits, tags, or repository metadata",
+  "allowed_files": [
+    ".gitignore",
+    "PUBLIC_FILES.json",
+    "README.md",
+    "examples/basic_usage.py",
+    "examples/sample.gcode",
+    "ipas_cost_basic/__init__.py",
+    "ipas_gcode_basic/__init__.py",
+    "tests/test_basic.py"
+  ],
+  "sha256_excludes": [
+    "PUBLIC_FILES.json"
+  ],
+  "sha256": {
+    ".gitignore": "22bc478fc0eb97818e8c2efd9a6c8f9dce55490bdd8074a3f2b6b8653c5c12d5",
+    "README.md": "270e0b3ebce36e85def7be25ec6ff92ae0e1fd250442376bd30f217757303322",
+    "examples/basic_usage.py": "9601a79fa2dd2b17c855d32f89fe2074cae6aea6d8c54a5d84671859ece1d14d",
+    "examples/sample.gcode": "4374cd68532b8e887c2968aad469cbb6d34c3f967833d0730fdc651bfc9054a9",
+    "ipas_cost_basic/__init__.py": "c277982d4415b5d741d09ae52784fb1742a42b15a28664a124e407854f6e4139",
+    "ipas_gcode_basic/__init__.py": "d03f514929a68865d8e74793280a95a45e37824e17c21a1ac6c195768d1b57a8",
+    "tests/test_basic.py": "8d3aeca12add5e45adfc16c4999a1ba12d0b785a95472cf586f72cbef1854556"
+  }
+}
